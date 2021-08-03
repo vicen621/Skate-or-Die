@@ -1,0 +1,85 @@
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #ccc;
+    padding: 2rem;
+}
+
+.sectionDark-btn-div {
+    margin-top: 20px;
+}
+
+button.sectionDark-btn {
+    background-color: red;
+    color: #fff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding-top: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+button.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
+}
+
+img.footer-img {
+    padding: 10px;
+}
+
+.fab {
+    margin: 10px;
+}
+
+.fa-twitter {
+    color: #00ACEE
+}
+
+.fa-discord {
+    color: #7289DA;
+}
+
+.fa-instagram {
+    color: #fff;
+}
+
+.social-wrapper {
+    margin: auto;
+}
+
+/* ============= Bootstrap 4 ============= */
+
+.jumbotron {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+}
+
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
